@@ -1,4 +1,3 @@
-```json
 {
   "id": "./",
   "name": "La Base 420 - Reservas",
@@ -24,4 +23,3 @@
     { "name": "Mis reservas", "short_name": "Mis reservas", "url": "./mis-reservas", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
   ]
 }
-```
